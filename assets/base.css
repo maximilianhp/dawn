@@ -73,6 +73,10 @@
 
 /* base */
 
+* {
+  color: red !important;
+}
+
 .no-js:not(html) {
   display: none !important;
 }
